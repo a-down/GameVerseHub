@@ -27,6 +27,14 @@ The goal was to create a web application with the subject chosed by the group. B
       
     On the search page, users can search for video games by title using the RAWG API. Clicking on a search result calls the game's description from RAWG.
 
+## Tech Stack
+    - HTML
+    - CSS
+    - JavaScript
+    - Bootstrap
+    - DayJS
+    - RAWG API
+
 ## Team Members
     - Henrich Michlitsch (Henrichm77)
     - Johnaten Nguyen (JohnatenN81804)
